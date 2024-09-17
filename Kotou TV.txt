@@ -93,6 +93,7 @@ CGTN-纪录,http://bxny.667789.cn:55055/udp/229.58.190.23:5000
 CGTN-法语,http://bxny.667789.cn:55055/udp/229.58.190.8:5000
 CGTN-俄语,http://bxny.667789.cn:55055/udp/229.58.190.20:5000
 CGTN-英语,http://bxny.667789.cn:55055/udp/229.58.190.138:5000
+CGTN-日语,https://stream1.freetv.fun/f3561ebd73ca546b46addbac3d34839fd6183430400dcddf2a10a9d18a777b48.m3u8
 各省卫视,#genre#
 湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
@@ -1223,14 +1224,12 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 斗鱼-【奇光】港鬼片,http://epg.112114.eu.org/douyu/8009547
 日本🇯🇵,#genre#
 GSTV Japan,https://stream1.freetv.fun/39c387b5a1bb11fc1950a4fd6b0a1e1ff46e319b8c162426132d69768a059af1.m3u8
-Entertainment,#genre#
 MUSIC JAPAN,https://stream1.freetv.fun/a39634f59279a0997a23dc790f27f00c960370c53a7e68409bb202ad0c8ea1f0.m3u8
 TV Asahi,https://stream1.freetv.fun/d014d79815cd82e10e3a46dc56b4f31669c7ccdc7e8cd5127f098edeac2767e6.m3u8
 サンテレビ,https://stream1.freetv.fun/21cd4fc893b37878d0c96cc923c77b23d2e8e28911041aa9bb0ee1635b889cd7.m3u8
 サンテレビ,https://stream1.freetv.fun/1a92bc3650577eae2b049c164519503a0d46e6ef12b509319bb3b7add6648d54.m3u8
 旅チャンネル[geo-blocked],https://stream1.freetv.fun/fa593e485b99f42a0ba59aa808ef0320916659ec2d60ffdb94e9dd1335679b78.m3u8
 旅チャンネル,https://stream1.freetv.fun/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8
-Generic,#genre#
 BS Asahi,https://stream1.freetv.fun/2c6dc7289b7a465ed9a1b422c36390ef67338ba7d332042c2ff93f61d719a0b8.m3u8
 BS Asahi,https://stream1.freetv.fun/59fcd7d10b2c5a428a2e8dbeba6ef94203f538d0477a30e3e11abc82db88a42a.m3u8
 BS TBS[geo-blocked],https://stream1.freetv.fun/a24c5d500fdbc1fb2fe06198db0312c3477119b1d814707a9250bf61bfa8130f.m3u8
@@ -1389,8 +1388,6 @@ TBSテレビ,https://stream1.freetv.fun/0804490a58916340c9e3003c505c35beda3706a0
 関西テレビ放送[geo-blocked],https://stream1.freetv.fun/eff7e97b4a14043ec047ca6b06a52b31b6a4c086e7349a9b4b44e8068b5433e8.m3u8
 関西テレビ放送,https://stream1.freetv.fun/4e99bf0a8ce131f95d0acf60e33874114d295b5646ca38ad7d1b970a7df7245b.m3u8
 鹿兒島讀賣電視臺,https://stream1.freetv.fun/82716635696af9c42cd6955e94689655c2182cfdccc19c08bca79d4a5bdbc1f4.m3u8
-Other,#genre#
-CGNTv (Japan),https://stream1.freetv.fun/f3561ebd73ca546b46addbac3d34839fd6183430400dcddf2a10a9d18a777b48.m3u8
 HI! TV,https://stream1.freetv.fun/8a7dc5e0ef2ffd20dfe8e86b4987ff897bee2b056ad5f968351fb29d8e24e75d.m3u8
 Jupiter Shop Channel,https://stream1.freetv.fun/27922108050ede0f88b4e8122e0d618f3220c7198aebcc7e419cdde1c8105b0d.m3u8
 Jupiter Shop Channel,https://stream1.freetv.fun/67355c14836a0d3704edb4a2099e7cfe0c2a00c1c7981fa4f9bffcdda0fe0ab4.m3u8
