@@ -47,7 +47,7 @@ CGTN-英语,http://bxny.667789.cn:55055/udp/229.58.190.138:5000
 江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
 安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
 宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
-安卓卫士,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 辽宁卫视,http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
 东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
@@ -167,7 +167,7 @@ CGTN-英语,http://bxny.667789.cn:55055/udp/229.58.190.138:5000
 其他,#genre#
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?
 1905电影频道,https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
-日本钓鱼,http://stream.qhbtv.com/adws/sd/live.m3u8
+日本钓鱼,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 茶频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 景区,#genre#
