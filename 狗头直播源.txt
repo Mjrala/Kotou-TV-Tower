@@ -1,0 +1,668 @@
+央视,#genre#
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+央视出品,#genre#
+CCTV世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+CCTV兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV风云音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视台球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV风云足球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+教育,#genre#
+CETV-1,http://bxny.667789.cn:55055/udp/229.58.190.57:5000
+CETV-2,http://bxny.667789.cn:55055/udp/229.58.190.59:5000
+CETV-4,http://bxny.667789.cn:55055/udp/229.58.190.66:5000
+CETV-早期教育,http://bxny.667789.cn:55055/udp/229.58.190.174:5000
+CGTN,#genre#
+CGTN-阿语,http://bxny.667789.cn:55055/udp/229.58.190.19:5000
+CGTN-西语,http://bxny.667789.cn:55055/udp/229.58.190.18:5000
+CGTN-纪录,http://bxny.667789.cn:55055/udp/229.58.190.23:5000
+CGTN-法语,http://bxny.667789.cn:55055/udp/229.58.190.8:5000
+CGTN-俄语,http://bxny.667789.cn:55055/udp/229.58.190.20:5000
+CGTN-英语,http://bxny.667789.cn:55055/udp/229.58.190.138:5000
+各省卫视,#genre#
+湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
+辽宁卫视,http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
+东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
+广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
+厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
+青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
+海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
+江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
+黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
+兵团卫视,http://by4.nty.tv189.cn/live/tm-bingtuantv-800k.m3u8
+河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
+海南卫视,http://by4.nty.tv189.cn/live/tm-traveltv-800k.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+东南卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2/index.m3u8
+第一卫视,https://stream1.freetv.fun/f7a332b0de0639d5df6a1b85d75af796f60f3fac597b1874c33f22829d7ff212.m3u8
+电影电视剧,#genre#
+极速汽车蓝光,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+黑莓电竞蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+黑莓电影蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+超级综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+超级体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+超级剧集,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+金牌综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+农业致富,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+炫舞未来,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+明星大片,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+自由搏击,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+海外综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+惊梀悬疑,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+爱情喜剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+精品体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+精品大剧,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+军旅剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+军事评论,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+健康有约,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+贺岁影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+票房大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+欢乐剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+惊悚午夜,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+温情影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+经典重温,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+谍战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+军旅剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+超清修复,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
+收视冠军,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+青春剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+动画和动漫,#genre#
+蜡笔小新,http://aldirect.rtmp.huya.com/backsrc/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
+七龙珠,http://live.iill.top/huya.php?id=11601966
+灌篮高手,http://live.iill.top/yy.php?id=1382735626
+动漫秀场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+黑莓动画蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+其他,#genre#
+梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?
+1905电影频道,https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
+香港,#genre#
+ATV A1臺,https://stream1.freetv.fun/bffe36bc2cbcb2b36eab73c5c69b6f93ce9e8dc73ff55dc7bc28b2fbfc57cc65.m3u8
+C+頻道,https://stream1.freetv.fun/4b86473a911d4424eaaa98666e49bc004f86fe44781b3178160d7e39bd07cd07.m3u8
+C+頻道,https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
+Channel V HD,https://stream1.freetv.fun/c76f47fe3eff84fa9c93f525b9629bfe302825c981bb8cb03ef7b49583dee020.ctv
+Channel V HD,https://stream1.freetv.fun/f947680d610423ba7076ddbd7ae98fbfc61ec58f1dc5fed4bce03f836851aa98.m3u8
+Channel V HD,https://stream1.freetv.fun/77a21a5151073158af47fd5176324d7455541ae4797966d55b4e20b0ca3ee115.ctv
+Channel V HD,https://stream1.freetv.fun/995e6e6a784e701e4ad3ea427fdf4d32bf9ab92eb6fac177133496757562f969.ctv
+KIX[HK][geo-blocked],https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.m3u8
+RTHK31[geo-blocked],https://stream1.freetv.fun/1c238ea740fa7e46808b5a69907a6a8644c7f350a10a0e70647e74e2573ea87f.ctv
+RTHK31,https://stream1.freetv.fun/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+TVB Plus,https://stream1.freetv.fun/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
+TVB Plus,https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da554abb9117b7a.m3u8
+TVB Plus,https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.ctv
+TVB Plus[geo-blocked],https://stream1.freetv.fun/63e9879537d97c1c03d6bf8b53ab33a7c1494327769d230a13815bcb6f2fecb7.m3u8
+TVB Plus,https://stream1.freetv.fun/dfd4eb201a632e2eb70475fb17b8dacd7195f69c508b997a7bdaa1b3e776cff8.m3u8
+TVB Plus,https://stream1.freetv.fun/4b3c4361a0e63c8fad9e78bf1d5f22f315c0ddd26814b4f490b2f6c1a464f4c4.m3u8
+ViuTV HD,https://stream1.freetv.fun/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
+ViuTV HD[geo-blocked],https://stream1.freetv.fun/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
+ViuTVsix,https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv
+[ V ]國際,https://stream1.freetv.fun/71e827ebde39c0881f2d54254f76ddb618516a762d72245138fcfb0290e7e8bd.m3u8
+星空衛視,https://stream1.freetv.fun/4d6218212c494c9898b8a15b7fc8a3dae025bf257c6ef7ea518e4ac0719da009.ctv
+星空衛視,https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.ctv
+星空衛視,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.ctv
+星空衛視,https://stream1.freetv.fun/48c306427e1b3343209a0fcce838f1d1e0c4125f8fdb771d3dcd30f125bebf0d.ctv
+星空衛視,https://stream1.freetv.fun/4bcf7b55c0ceec1b9e43fe9ab38a162fb6a73df795e2a5b641b618fb6ae53e9e.m3u8
+星空衛視[geo-blocked],https://stream1.freetv.fun/da532b75b99fb3aabcb635e90d01a6040bc68a0031c726789d5761ae17598f6e.m3u8
+星空衛視,https://stream1.freetv.fun/07210c96ff4ccc0b2e414c2aff40af25c9426daeb6fde8e39b544f00f8d0c0a8.m3u8
+有線綜合娛樂臺,https://stream1.freetv.fun/e7d0fd0af358e1345bd370de4758cb8ce57eafdb73590976f97002e0f75b016c.ctv
+港臺電視31[geo-blocked],https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8
+香港衛視文藝臺,https://stream1.freetv.fun/9997883799cbd1a55b08e80f73d991dd601380ff5923a25d174b75d1f0a5a371.m3u8
+ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
+ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
+ATV WORLD,https://stream1.freetv.fun/d0cefe080f8ae069da08ee88e3cd5eaf97066a83306c40f9202d40c997d2a5c8.m3u8
+ATV WORLD,https://stream1.freetv.fun/63be5e2eb71827603ceb081d704f423702a72c6964dabe3652ce846ad5996230.m3u8
+ATV WORLD[geo-blocked],https://stream1.freetv.fun/c503c32a575ba4c7b6b590f945594b4d226906d8a898b42dd68da4b56d6ac1ce.ctv
+ATV WORLD[geo-blocked],https://stream1.freetv.fun/f46fefff62522b3019411a7f6e0a93ac62d4075fd648ae5aa5488e94460fe19d.m3u8
+ATV WORLD,https://stream1.freetv.fun/b30226b8288cf7fb73ef32db4071f9d20a8c7dc48480f8d7c10329a2af64c1b3.m3u8
+ATV WORLD,https://stream1.freetv.fun/ef0e08193958083d203a68b67a1e47cc6f2bc5b01d240ee1ae9ff0ab5e93200e.m3u8
+ATV WORLD,https://stream1.freetv.fun/64e5c92bdc0b9841a5f1679170c4c1f2165ec74c06a966bc3b3281f5e73da1b2.m3u8
+Now TV[geo-blocked],https://stream1.freetv.fun/59423f2da2550a55a8a5643883f2c1e84d65c2546e0944b2f2c0bb32feefef44.m3u8
+Now TV,https://stream1.freetv.fun/d05473213eccf4814f220641dbcf25abe94f124106c31eed62c4c51ee611342d.m3u8
+Now TV,https://stream1.freetv.fun/9a86f6504ebc39ebede157d2cf9c33aaf0bebea50e8abf8d609327539a7acbe0.m3u8
+Now TV[geo-blocked],https://stream1.freetv.fun/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8
+Now TV,https://stream1.freetv.fun/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
+Now TV[geo-blocked],https://stream1.freetv.fun/2d864c47240105a338e9ebb2ee617cf045dec0bd66fac260feecb8d8f48441b5.m3u8
+Now TV,https://stream1.freetv.fun/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
+TVB Drama(US)[geo-blocked],https://stream1.freetv.fun/7c5533d8365aaf241fa0d48dc19ff82fb0f988330b83917f8d469e02b50a6de9.m3u8
+TVB J1[geo-blocked],https://stream1.freetv.fun/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
+TVB1(US)[geo-blocked],https://stream1.freetv.fun/cc1464b5a1454e26950a22e867241280ba6f6b1b680a911bac30d44af6f414c1.m3u8
+Viu TV,https://stream1.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
+翡翠台,https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.ctv
+翡翠台,https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.m3u8
+翡翠台,https://stream1.freetv.fun/332e58d4889775e85e40eb15fb99213958582128ad269277f3393bb0f2f54039.m3u8
+翡翠台,https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60cf803082470.ctv
+翡翠台,https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
+翡翠台,https://stream1.freetv.fun/6a73a96c43beae5c85f0bad922a12a1fc672891891d5e8125d84fecf248436e0.ctv
+翡翠台,https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.ctv
+翡翠台,https://stream1.freetv.fun/bcc3b37d4563a9b1907324fc914e8a5f60d904fd6e0edaea3c4b63c356c57a55.ctv
+翡翠台,https://stream1.freetv.fun/ff3205f993bc272535d52c71efd9827d5eeb120b4902f091037e43ad269923b0.m3u8
+香港電臺,https://stream1.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8
+鳳凰衛視FHD[geo-blocked],https://stream1.freetv.fun/dac453b4fea2ca91cf4bc4715f3ff39471292735f14934946d4ca96b309a3a47.m3u8
+鳳凰衛視FHD[geo-blocked],https://stream1.freetv.fun/fba28641ea09473d17e0a243d6d5fdcbc3498528c62a37603210b641ae71172f.m3u8
+鳳凰衛視FHD,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv
+鳳凰衛視FHD,https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/055fd0088b3f216546c19d45700775c682b30836f177ac327bf5f56ae4fcb7b4.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/a69efa1a0897a5f69ceed5b9cb6ee600febec9eb51447544a2d74a43cd89059e.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/8f3acb93b182778b4377ff0f4ed453388204b9afc7f9bc1dd498dcd7bb75c6d2.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/bd38d1a5dbaa2affc43f53a29b1dd40af86adcf190d7f3f1b689843d0addbd2c.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/1bf9d2ebaa26a15a494de81741a7152849efc490682e2f6e806f2e3ea170376f.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/fd3f587c16496807d24b3f3c58eff10439384428069068b6b822777315cbc5b6.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/d8fce7760e85b1cf8932680772587d4066f09469626ffe0bc92504179e864e22.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
+鳳凰香港[geo-blocked],https://stream1.freetv.fun/a1e9b719a07884526606598d72537cef8048233381d1bcd4264e1be3db2cf40a.m3u8
+鳳凰香港,https://stream1.freetv.fun/1f5ab9d3767b4d8b2494facfd687ce858e0feafd81ce67a4f67b8346c5f5baff.ctv
+鳳凰香港,https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
+鳳凰香港,https://stream1.freetv.fun/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.ctv
+鳳凰香港,https://stream1.freetv.fun/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.ctv
+鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+Discovery Kids,https://stream1.freetv.fun/60cb824bbcc18e0e8ae5574020d115d2d73ae1e13c727b5e6ee5ef4ea9fd7e67.m3u8
+Discovery Kids,https://stream1.freetv.fun/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.m3u8
+Discovery Kids,https://stream1.freetv.fun/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba85800a18c579d4.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/57b93bef1a16cdec920abf9c46e5720fe119d888d139ecfc3ff69ebc56b885d9.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/9c1a6f1dff258cd87f25876137b470ab129cf846f6ed14a3177acec634bbbcef.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/1fe00b5f48c2c8f3978ec0a2550589e8f4947ed7db0409108f8332fe0dafef27.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/38c0d7024b9467731c3bc25cb67d7571fee8f166295b5606e8390ca38069bfbd.ctv
+MOVIE MOVIE,https://stream1.freetv.fun/e3012c02257fd1864226024c64973b9e068debd13850c1253ff1523b90cd14fd.m3u8
+MOVIE MOVIE[geo-blocked],https://stream1.freetv.fun/88f463fa409f97502746410d9e9590f5258028705a38873b492f1c9d1b122150.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/b43fe6286f6d30b060d2fc4d98f01e7b2c62a686cc99e19bf30fa1ed1c388506.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/23bcc3921c432ac028de2772a267aecb87ededc75d71a110cd2a1e076333aaa8.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/d4da65f51021db0b38fe9faf2ed08d1dd2bab08179711eb164dc3957c0596cda.m3u8
+MOVIE MOVIE[geo-blocked],https://stream1.freetv.fun/d7121f7e4fc4490d56638cd8d0f01630a542afa2dff69fa74f6daedc2f6f6784.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/4fd70d7793fa5083b1f36cae2ff1d7e8fe4b763223651f3cd79ee129c53fd69a.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/58e84db3abafc1e7469cf520ba87903e4957e7dfe71bf86cd5b3855f9584393f.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/93c55a260a4dfbd9ae5a9bf39b95958163a268100d21635056b835ca2c9c075d.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/d8d92f6377637179947de8d3b6c476b0a4ca2e4ef29a30c68570faf821ce99a4.ctv
+MOVIE MOVIE,https://stream1.freetv.fun/274aa1d1e8b2f14fcba92d6ac4d65e35c85017d2aeb134b23605e1e41294845c.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/9ccc4f0b68d08071863557f30e572c770c67f796dd014897264578f7da76cd68.m3u8
+MOVIE MOVIE,https://stream1.freetv.fun/26fcb62d389f00ba73bba6b6a4d2c941ebf563a2a3e0a516223a99a9efda6056.m3u8
+Star Plus SD HongKong[geo-blocked],https://stream1.freetv.fun/acf89911dcfd14f27f2728da8983c5e869cf479853bcc2984c8152756ee9701a.ctv
+TVB亞洲劇,https://stream1.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/5bf2b1b6e25985960785ccef6dc0acddc7424b6fc178ba1530817265e730f56f.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/546bdd4b82259d8d136893bafc3b1fa4dec137fb88ab10b9fa02b7469bc83a0c.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/df891b505a8433ebc8b75612066a1cc25b14149d1d52136d6c5e3b19e86aa6cf.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/3ac58ed08ada7fe3ab14bdbb13805a81339d7f9a66b0753a51af051a4ddfddf0.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/bce244fa023794cc786b2de797ae2b66b630c1a93aa2f23d2ad31ab0045d830a.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/7843556b9457c79f5185c8dc71e2c07c55dc12b034635c8075a8847163f8b483.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/b6f6cc851833a019ea4469d4c3ffbdf8dda4315d35cce148d1295e1cfd8d02eb.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/682f73c1580125401f7f5598360d02b6b025aee02d1166369ed57dda8457be6e.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/fb5f47a5413f2bbb04432a0715bce7c2bc9f25ae267cd10d9843f6e0c29e966f.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/087db99a708b011a332da5531b4cded1d2dabe9d047d5830e6e66ab26e3d8196.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/531278969f6c10b2114ec85b2083550e32f62fddf59356e58433dc631ce9279a.m3u8
+TVB亞洲劇,https://stream1.freetv.fun/c91807f5c88434fbf66e1adc3e5f4a23e91ab57500d23ce5371730e81376a159.m3u8
+TVB亞洲劇[geo-blocked],https://stream1.freetv.fun/e0d2070038031ad735d2e4f77f3aea091afb212dd5aa13eedc12917b769ca76d.m3u8
+TVB星河,https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+TVB星河,https://stream1.freetv.fun/2e73c35c9d4b2d73ceda43bec8220855e171d39c620940ffd3022b7270ba8c71.m3u8
+TVB星河(粵),https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.ctv
+TVB星河(粵),https://stream1.freetv.fun/d4eb4aeca91bf4670d3e6ada6b682b69085041e79abe32b49e358c897c6e0a5a.ctv
+tvb粵語片臺[geo-blocked],https://stream1.freetv.fun/038cd411080f2ab5a84bf5a65ff0f4ff346c60b2820773b8beae0fb362c59a5f.m3u8
+天映經典[geo-blocked],https://stream1.freetv.fun/a3d520d73427db617286da7f2e918c2792c89a62d6090d0d3f1e08a4c43a86c3.m3u8
+戲曲臺,https://stream1.freetv.fun/40b0e1b5c670cb36a2ae1f32dff40c6d321414cbb40146e634de461058435cc5.ctv
+明珠台,https://stream1.freetv.fun/36d4ca249d75335cdeaeb0fafe9671a63a073e7ba8971578a8b40429cded40dc.ctv
+明珠台,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
+明珠台,https://stream1.freetv.fun/b805be4ead12b9db51ac0233d7fde0367602cd05ef2257a4d5700a47fd4338a4.m3u8
+明珠台,https://stream1.freetv.fun/94d30760be1ed3b51cad3621fd2ac3d619fc2814fc9b90d29c64401f128aa640.m3u8
+明珠台[geo-blocked],https://stream1.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.ctv
+明珠台,https://stream1.freetv.fun/4bd0ec25b2cc36739d625ad4442e93c5b0f015a912a7f3e33b4e48fd638de3d3.m3u8
+明珠台,https://stream1.freetv.fun/18147fe9227d749afdbf2b79ad6a6182ecd2276f2338a696d0c23d998e2763b2.ctv
+林正英,https://stream1.freetv.fun/e75c97d69920df515b3f87068176bb1019c456bcce8f4bdedfb98051fedc0eba.ctv
+林正英,https://stream1.freetv.fun/5e288731f122b6802af24ef4155c32dde8ff51cb27abea22e2c3a0a7e68b4d10.ctv
+林正英,https://stream1.freetv.fun/5c55b1c2687218ef08d31e6cec0ce667e1035ef6eff71eb018212d1a3a5f1f9b.ctv
+美亞電影台[HK],https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
+電影1臺,https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8
+鳳凰電影[geo-blocked],https://stream1.freetv.fun/a55c6f702438d92f664851337c6bf6a4b832cd95d6f597e50b1e6040a3c33e57.m3u8
+鳳凰電影,https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
+鳳凰電影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
+NOW 新聞臺,https://stream1.freetv.fun/01fb01adb7e4381c9e76db158033938c38b2fe013acf64bb5cb806ee2abde363.ctv
+RTHK34,https://stream1.freetv.fun/d17812c05918dba947a45b34c857dd68746f3a3bd7eccb9c39964b0515b008c7.m3u8
+RTHK34,https://stream1.freetv.fun/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+RTHK34,https://stream1.freetv.fun/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
+RTHK34,https://stream1.freetv.fun/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
+RTHK35,https://stream1.freetv.fun/86564020a11d3ce6598f1e944855570a59fed9e02ab9471a5f04509c1e110938.m3u8
+TVB E[geo-blocked],https://stream1.freetv.fun/0c7669ff61caec08d597cd6511821b7beef354fe0af632eeca154668ad56090e.m3u8
+TVB新聞臺,https://stream1.freetv.fun/3b03cc3526a567aa659a19056497b9e0b4ea1d3419f7eafcfab73b77b7c51332.ctv
+TVB新聞臺,https://stream1.freetv.fun/38e422e8760b731a44f2edf723aad66e82223336f5a8b4cd23a345e02a089165.m3u8
+有線新聞,https://stream1.freetv.fun/558069a2e8c13ec449be43043df699c8f2fe5980a1348244a574596b2a77a3dd.m3u8
+有線新聞,https://stream1.freetv.fun/582f724b9e59720e761fb1cac713dbab7bee50bc6df470234dd62dd19714ca8d.m3u8
+有線新聞,https://stream1.freetv.fun/f5ce037a8e9402092d082473ad564342743a83b1ca784cff0df90236ee980fa9.m3u8
+有線新聞,https://stream1.freetv.fun/cb206191db20ab3776f20fa69ee8db6d329d213c60c9d6acafab79e4bdadb357.m3u8
+有線新聞,https://stream1.freetv.fun/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8
+有線新聞,https://stream1.freetv.fun/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8
+有線新聞,https://stream1.freetv.fun/63b7c2d407cfa08936f3ba0654dda7d631b52bf81ea07492219dae2cd78f67cd.m3u8
+有線新聞,https://stream1.freetv.fun/b40679c57d10eb253a2e71d1cddfd67abe06c0eb23accc371665e9ff2e670997.ctv
+有線新聞,https://stream1.freetv.fun/44be8bb84f721a391dd440176463c4db70d2abd9950a2138ae3f9169b6ce178d.m3u8
+有線新聞,https://stream1.freetv.fun/68bde58dd454d8455bcef5b0f9772aba02299641db85662a5682487f69d615ea.m3u8
+有線新聞,https://stream1.freetv.fun/4d6591408175f51c98487a2e75932b963836ca8ad4e8d24c744662d4fe4b1a38.m3u8
+有線新聞,https://stream1.freetv.fun/10ba69849587a98651638f7072e3e7ec50d0f52f03dcaaa77115221192b3a002.m3u8
+有線新聞,https://stream1.freetv.fun/ddcee8ae223200a8e79c3d10f153c7b9ad14ead3449536d9cf0d3a7272aef0f8.m3u8
+有線新聞,https://stream1.freetv.fun/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8
+有線新聞,https://stream1.freetv.fun/ea058ab8cd9ae5ff67fea662e7f511166a26a5e95205248dddadb83c59998036.m3u8
+有線新聞,https://stream1.freetv.fun/950f4efaa09c59b39332fa295ae36a591264ffb271b9beef138462274c3b7b14.m3u8
+有線新聞,https://stream1.freetv.fun/cea645ef7ddbe09e2dfeaffd5c9c6530e08b8d82a1a648cce5e12e264f3662b4.m3u8
+有線新聞,https://stream1.freetv.fun/10311148721256637f60daaa945232de2d91db13870451c92a743a4d24ee08d0.m3u8
+有線新聞,https://stream1.freetv.fun/bf4549e66e57de24e2048f146459a212c13a678c085028f75280258c617643bf.m3u8
+有線新聞,https://stream1.freetv.fun/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
+有線新聞,https://stream1.freetv.fun/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+有線財經資訊臺,https://stream1.freetv.fun/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8
+有線財經資訊臺,https://stream1.freetv.fun/e536b24d25d65a1e5ba8dad6f1762956d955f9d857068f79aa03386a75638d17.m3u8
+有線財經資訊臺,https://stream1.freetv.fun/23db82730f3b43b390d230a69d0ea0bff90c718930b4616f8815019ad7db1523.m3u8
+有線財經資訊臺,https://stream1.freetv.fun/5c4073692c6bfe2a6fcfa1ad9dc419ddf9264bcd61f4fdd78f980235227e8b0f.m3u8
+有線財經資訊臺,https://stream1.freetv.fun/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
+無線財經台,https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
+環球電視臺,https://stream1.freetv.fun/6234a9bcbe41073ea5f86dfdea0d0241a0f06a064046d72c42128f714889299c.m3u8
+耀才財經臺,https://stream1.freetv.fun/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8
+耀才財經臺,https://stream1.freetv.fun/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
+耀才財經臺,https://stream1.freetv.fun/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
+耀才財經臺,https://stream1.freetv.fun/556c7a5cfd71eb3963085a4c862e8a3aac64faeccce262ae3a6d23b6b4fb460e.m3u8
+耀才財經臺,https://stream1.freetv.fun/30a1630dfb62c3260e2621263d459105380386fb9228611255d41360969c4a2e.m3u8
+耀才財經臺[geo-blocked],https://stream1.freetv.fun/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
+耀才財經臺,https://stream1.freetv.fun/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+耀才財經臺,https://stream1.freetv.fun/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
+香港有線新聞臺,https://stream1.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+香港有線新聞臺,https://stream1.freetv.fun/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
+鳳凰資訊HD,https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/b93e2b0c89780113e7b968411eec5c922ab70be9dd7cfbfc3bfdea379d38509d.ctv
+鳳凰資訊HD[geo-blocked],https://stream1.freetv.fun/dcc5116a44b409379280802e020cb9a656ed1ac1f4af0c96ddd41aaa4c44a87a.m3u8
+鳳凰資訊HD[geo-blocked],https://stream1.freetv.fun/2da8fe44079614508a49dc3fa55577387275ffe8728a6b3e48a58e3993d4f0df.m3u8
+鳳凰資訊HD,https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/bafba85af08bd32cbf83cc4ea850e6097db38421eb7783d8ed331e4d26dba0f9.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
+鳳凰資訊HD,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+鳳凰資訊HD[geo-blocked],https://stream1.freetv.fun/03b8b50959f71c9480228564b4fedbe3cd0927a427d0bc903059a5843cb7c4b6.m3u8
+鳳凰資訊HD,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/c0c7420b2760bab1efaa334373f05df5c2e902bf08d4a8fca69abb0e84476b7a.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
+鳳凰資訊HD,https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.ctv
+鳳凰資訊HD[geo-blocked],https://stream1.freetv.fun/c7ca1727b52f0087834b91cc346fa04f48e2fb5ba1bd0b8aa31c73c9e7d829ba.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/58b90e179939717b2c6501181658ae1f827155a248d59d77d84bd1910da50599.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/694fdb1003254a4701099d3cb0b5ddd644fb51c13cf19eeab026440b3069d3c3.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/0aed9d9ee7ce1790ce19521764b2f20d44b58711b44879ea225646a28010ae76.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/bfd140266f0bc1d9689c8cca261521038b45d662a160a3785d45d074b26899c2.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/9eb6ea6e2dff3063d91e187eae864fbbea00e23abeffb640780f6f4faedf9452.ctv
+鳳凰資訊HD,https://stream1.freetv.fun/a8150d95ef7cfb2f49dbbde2df2335f7bfd59ab4f3aeef08273b80aee5b137fe.m3u8
+GOAL TV 1,https://stream1.freetv.fun/6d61f2e1b88461dd5293803a4095cd448455daa8a86b5dcdf453edc512a56c1f.m3u8
+亞太第一衛視,https://stream1.freetv.fun/f7a332b0de0639d5df6a1b85d75af796f60f3fac597b1874c33f22829d7ff212.m3u8
+劇集2臺,https://stream1.freetv.fun/951736a1c8422926a55eccdc7421499ea16aaa02acebe00a83b1e76229d992aa.ctv
+劇集2臺,https://stream1.freetv.fun/56a96ffa5043d616d056b46b3aab357ddf67596d5ace63891e0d88ccc3d7581f.ctv
+耀才財經臺,https://stream1.freetv.fun/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
+耀才財經臺[geo-blocked],https://stream1.freetv.fun/d517af67dc8af744309601ec7bfe731694b9058fa9c1bda5880d3b5f75a54db7.m3u8
+耀才財經臺,https://stream1.freetv.fun/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
+ASN HD,https://stream1.freetv.fun/ad57bf5142ed012e0136c81607b6c5ed5f54f381cc9e760b2e8e78e67a1d3481.ctv
+Bein Sports 1(HK)[geo-blocked],https://stream1.freetv.fun/3e69477742e0deed85563290ea2a129aee88771fa94de7b0dab38a8655421bdf.m3u8
+Bein Sports 1(HK),https://stream1.freetv.fun/874dc456777293cabb97a6fd5b34f5d2e9089e28cace7340d7ac0eeaada17e8d.ctv
+Bein Sports 1(HK),https://stream1.freetv.fun/b52242446e03a7104dcdca90c98c58987f9dc19536a423f40aea22e3b363d58c.m3u8
+Sports Plus 2,https://stream1.freetv.fun/f87997be8937d08b86c1b94d0894e9f62cf0e210c45608b1a554ebe1ba885ca4.ctv
+Star Sports2,https://stream1.freetv.fun/13cd18dfe986eebdc500e2f9aa09d73aac171bf4e47e01b874375f9d35f51dac.ctv
+now Sports 5[geo-blocked],https://stream1.freetv.fun/4efe1abff93d8152689933502b62bcc3f8e246cfcef808cf2810c853049357bc.m3u8
+now Sports HD,https://stream1.freetv.fun/ad67b1b8ed41d06399151c3d984e6b70418dc00d5105a4890cb0ea9832db6af6.ctv
+澳门,#genre#
+澳視澳門,https://stream1.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8
+澳視澳門[geo-blocked],https://stream1.freetv.fun/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8
+澳視澳門,https://stream1.freetv.fun/63dfe0918b34a9c16af1d45637dadb494cac757fc34f97ac4741689288ed84ed.m3u8
+澳門蓮花[geo-blocked],https://stream1.freetv.fun/ef92d2e8e8ecfcd85fb8a0aa005e0080a4b0437cfdaf9a8849407111f971b5fb.m3u8
+澳門衛視[geo-blocked],https://stream1.freetv.fun/5f07c175a9cd7c18a43ed354299f4f4a719146f53cc3cd08ca2a9242f00e6d5e.m3u8
+澳視綜藝[geo-blocked],https://stream1.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8
+澳視葡文[geo-blocked],https://stream1.freetv.fun/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8
+澳門MACAU,https://stream1.freetv.fun/36b115d658ad868ad8c5d67de3467b8bf52727576a12c24fa89ef314c2df3d66.m3u8
+澳門MACAU[geo-blocked],https://stream1.freetv.fun/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8
+澳門資訊[geo-blocked],https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8
+澳門資訊,https://stream1.freetv.fun/8f5e06164f83ea905f999a68eb8c62711d9b752fc3b984f5a6b07b1b355e210b.m3u8
+澳視體育[geo-blocked],https://stream1.freetv.fun/9aef8e8f1c01b226c1f385bd2dc68af304041a908154aa383914763a3634011a.m3u8
+三级,#genre#
+爱很烂,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/vf/c1/xy/je/9c181c81984e456a9ade1fa8c0021770.m3u8?
+不覊的心,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/3u/zp/4s/rh/b3acaabe7e0b4c148b3571da6fc9f41c.m3u8?
+不文小丈夫之银座嬉春,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/7n/s6/95/b4/64b1be8333004ba5ae30665390893889.m3u8?
+摧花神龙教,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/rt/ix/j5/50/5a8f75848e7f4fb68539c8032a42800a.m3u8?
+勾魂噩梦「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/de/8i/j5/cd/92b61d3b80514007a60da1c9a4210189.m3u8?
+花街狂奔,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/zu/ty/p1/jk/3259f3f5abad4eb59e6eb0d81e9c14f1.m3u8?
+金瓶风月,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/bv/na/64/js/bc13bb11a2734309a97c51e8018062a0.m3u8?
+金瓶梅 2009,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/5r/f0/91/pt/657f7457792046f0b26296e7ab8dc54c.m3u8?
+金瓶梅2008,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/c0/xf/gg/0f/8a292587e31a4a3eaa0181399728341b.m3u8?
+惊变,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/01/gh/8c/mu/6f08b2047a4c43fb80a6b84b4a210c8e.m3u8?
+聊斋花弄月,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ay/u7/zm/9e/8d8af725105d45deae2dde3912289813.m3u8?
+聊斋金瓶梅,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/y4/my/fk/ri/6195420d42f54abe8c997cb3859aa8a5.m3u8?
+聊斋惊艳,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/i2/dv/us/uz/22ea327b9ed8494b86d4c93b3efbbb90.m3u8?
+聊斋艳谭,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/hj/gn/9q/pf/328249e08ba04574b40ce799e997d7f7.m3u8?
+聊斋艳谭3：灯草和尚「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/4p/48/z1/q0/851e1443df22425687209bd894113842.m3u8?
+聊斋艳谭续集：五神通「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/em/nl/x2/h0/1fabfbc638264c6c8a73a03666df2d2a.m3u8?
+灵幻新娘,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/13/8j/ol/z6/947bcb5ad38f4a5eab132da3a94cc85f.m3u8?
+蜜桃来偷欢,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/oh/ja/jq/y7/a11df34ee2574fbfbe46ce724fa56f17.m3u8?
+灭门惨案2:借种,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/1f/wk/cl/w4/86ad88a49fcf42778d5fb1522845c8a7.m3u8?
+灭门惨案之孽杀,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ph/ar/xo/yj/58d41640a9e6447db67ad3e161c28e66.m3u8?
+摩登龙争虎斗「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/4d/4q/84/b9/edd66c1ce5424c5d85c28c329b083b73.m3u8?
+情不自禁,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/9w/hm/1l/3e/ab8f485579fa4412a33b66ffbcf1b560.m3u8?
+情难自制「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/p9/5v/9t/j0/e18f0c1590a940eca9443e6a2ffdee3b.m3u8?
+五月樱唇「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/1q/92/2c/l2/dcb00c7faa4d4a1cab77f8cef6cd3f14.m3u8?
+新金瓶梅-1「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/9n/om/ey/m3/5818f7a375364105b91f73443101fbc8.m3u8?
+新金瓶梅-2「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/st/og/8r/id/95b2f1ca83914736bf80677f168c8a9d.m3u8?
+新金瓶梅-3「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/j1/je/h3/ny/bd613c602d5a4e9a9e4666ec25899422.m3u8?
+新金瓶梅-4「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ys/ct/jj/2v/4d20dc3e83a54dbbbd0882d8156f7a5e.m3u8?
+新金瓶梅-5「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/st/fa/rg/ao/1c8293e0715c465f8b859b0379ce6155.m3u8?
+鸭王,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fo/4n/1u/xg/304cc44af0334b39b0989c4e224ec966.m3u8?
+艳降勾魂「修复」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/bj/z0/q7/by/5b49b5ff15484a5aab4a3d0d55d608ec.m3u8?
+一路向西,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fd/ea/eu/2q/7bd22841f6dd4b768ab5d1e38419bf4b.m3u8?
+欲海花,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/mp/xu/5a/2z/3b0bf943125c4d8d935354e42aece2f7.m3u8?
+韩国御姐,#genre#
+-東京熱激情串起專刊！,https://vip2.slbfsl.com/20230308/1UZH5fQD/index.m3u8
+-両穴を餌に誘惑してくる近所の奥さん！,https://vip2.slbfsl.com/20230310/EeUdiBWz/index.m3u8
+【奇葩恋情】妹妹分手了姐姐替补上了妹夫的床,https://vip1.slbfsl.com/20230111/JPilfmkl/index.m3u8
+白领OL下班后想冷靜一下,https://vip2.slbfsl.com/20230126/w4rBjnbs/index.m3u8
+白丝体操服的诱惑,https://vip2.slbfsl.com/20230126/hwoUteei/index.m3u8
+开操黑丝极品白虎鲍鱼！bb紧嫩又好操！,https://vip1.slbfsl.com/20230106/VweJ1E8U/index.m3u8
+拷問地獄,https://vip2.slbfsl.com/20230416/OfMKq0b0/index.m3u8
+夢のドライオーガズム開発！,https://vip2.slbfsl.com/20230421/hwA8uLB8/index.m3u8
+奇跡の五十路-part 2,https://vip2.slbfsl.com/20230226/hLqRNExy/index.m3u8
+言わんばかりの出来事が今夜繰り広げられていきます,https://vip2.slbfsl.com/20230302/JY2aFSQF/index.m3u8
+義母奴隷-Part 3,https://vip2.slbfsl.com/20230303/vxY5Rnq4/index.m3u8
+中に出された精子は膣圧で最後の一滴まで搾り取ります！1,https://vip2.slbfsl.com/20230304/xN9WFg3a/index.m3u8
+JDYP042約啪HOT到家part7,https://vip2.slbfsl.com/20230121/zJLlCJX3/index.m3u8
+JIVD《安娜貝干》用純愛愛來打破詛咒part-2,https://askzybf.com/20230114/ycESzgEk/index.m3u8
+JVID《精油胴体的妹子被炮机不停抽插强制高潮》,https://askzybf.com/20230117/Qs77dMMi/index.m3u8
+JVID《情趣红娘自慰成癮》,https://vip1.slbfsl.com/20221214/pAVqCU4s/index.m3u8
+JVID《情趣红娘自慰成癮》,https://askzybf.com/20230117/phi6f2Tv/index.m3u8
+Momokarin,https://vip2.slbfsl.com/20230323/aGI6L5nw/index.m3u8
+PRED-406 悪質クレーマー親父に謝罪失禁しながら何度も中出しされたワタシ… 月乃露娜,https://vip2.slbfsl.com/20230130/aArtIKto/index.m3u8
+SOD酒吧轉移,https://vip2.slbfsl.com/20230323/2XUueN7k/index.m3u8
+SVO-KS-084 べに,https://vip2.slbfsl.com/20230318/m4whdQhe/index.m3u8
+XK8029  我在微信撩妹妹-蘇婧薇,https://vip2.slbfsl.com/20230115/Bk13iTIa/index.m3u8
+XK8058  綠帽殺手-馮雪,https://vip2.slbfsl.com/20230115/BIkMDDkC/index.m3u8
+まい スペシャル版～,https://vip2.slbfsl.com/20230402/3T4dQRcR/index.m3u8
+ラグジュアリー＆リッチ,https://vip2.slbfsl.com/20230403/PiOaq4XV/index.m3u8
+中文字幕,#genre#
+-可愛い笑顔が快感に！,https://vip2.slbfsl.com/20230310/03tYqSFB/index.m3u8
+-流出版-いつでも挿れ放題な催眠！,https://vip2.slbfsl.com/20230310/TF4lfl2J/index.m3u8
+-全身敏感体質のキャンギャルEカップ！,https://vip2.slbfsl.com/20230312/6BLBfjQU/index.m3u8
+-視線を感じるコンプレックスの大きなお尻！,https://vip2.slbfsl.com/20230314/VmweGZ9C/index.m3u8
+「突撃訪問！自宅で緊急撮影！！,https://vip2.slbfsl.com/20230321/P1Fhzo5x/index.m3u8
+對風俗嬢說教同時強迫口交完全勃起被店家列入黑名單的鬼畜親父投稿動畫,https://vip2.slbfsl.com/20230410/S3l0JdBA/index.m3u8
+剣道全国大会準優勝！,https://vip2.slbfsl.com/20230415/QnNEF29A/index.m3u8
+郊外ラブホテルは変態の巣窟,https://vip2.slbfsl.com/20230415/y5qNr3hf/index.m3u8
+結婚式直前に俺のオヤジからの種付けレ×プ被害を告白されました,https://vip2.slbfsl.com/20230415/6PnUP9hD/index.m3u8
+今日は孕むまでナカに出して,https://vip2.slbfsl.com/20230415/1VP22Iaq/index.m3u8
+日本-筆下ろし自宅訪問,https://vip2.slbfsl.com/20230307/VcfX2e6h/index.m3u8
+日本-れている内にだんだん気になる存在になって最後は自分から仕返し中出し,https://vip2.slbfsl.com/20230307/XSSPOTk8/index.m3u8
+日本-ロ●専科 鬼畜義父に犯●れる地獄の温泉旅行,https://vip2.slbfsl.com/20230307/XTbpF0Fe/index.m3u8
+未だに現役で母さんを抱きまくる僕の絶倫オヤジに嫁が欲情して危険日狙って中出し逆夜,https://vip2.slbfsl.com/20230301/IaWyfKBs/index.m3u8
+一刀兩段的錄像,https://vip2.slbfsl.com/20230303/4gPlkm9v/index.m3u8
+音量注意！アヘ聲デカすぎ！GカップJD 潮吹き痙攣,https://vip2.slbfsl.com/20230303/kLkNvZT0/index.m3u8
+制服狩り エステティシャン編1,https://vip2.slbfsl.com/20230304/clgRWGEP/index.m3u8
+IPX-460-CN 讓我使出全力協助您自慰 深田詠美,https://vip2.slbfsl.com/20230325/g69AmNYa/index.m3u8
+IWAN-10-CN 母さんの友達の普段づかいの地味下着 萩野美佳子,https://vip2.slbfsl.com/20230326/VM4dJ1Ff/index.m3u8
+NATR-626-CN 苦しい家計を体で補填 七瀬ひな,https://vip2.slbfsl.com/20230414/Gp4lLcni/index.m3u8
+SHK-D-523 美畜同好会 強姦標的 List.01 製薬会社セールスレディ編 仁美まどか,https://vip2.slbfsl.com/20230318/k0h0fFPg/index.m3u8
+VENX-120 親族相姦 漂亮的叔母 市川愛茉,https://vip2.slbfsl.com/20230208/YvwU8LUo/index.m3u8
+シャレにならんドッキリ引退作品,https://vip2.slbfsl.com/20230328/bNTGpdkk/index.m3u8
+スタイル抜群 Gカップグラマーでショートヘアの俺の嫁が知らないうちに学生時代の先輩に寝取られ続けていた,https://vip2.slbfsl.com/20230328/k5J292qx/index.m3u8
+ぜ～んぶ初?体?験めちゃイキ3本番,https://vip2.slbfsl.com/20230328/2cTIfGBH/index.m3u8
+と入れ替わった俺は社内でヤリたい放題！,https://vip2.slbfsl.com/20230330/pKSxCZgs/index.m3u8
+ドラレコNTR11 車載カメラは見ていたねとられの一部始終を,https://vip2.slbfsl.com/20230330/dOEhQtE9/index.m3u8
+にレズ解禁されちゃったSPECIAL！,https://vip2.slbfsl.com/20230330/WTY3cUNz/index.m3u8
+よだれを垂らしながらその快楽に酔い痴れる姿は必見！,https://vip2.slbfsl.com/20230403/T3FremsZ/index.m3u8
+东南亚AV,#genre#
+-流出版-吉澤明步無碼流出2！,https://vip2.slbfsl.com/20230310/dsDE7Ml0/index.m3u8
+032620-001-CARIB THE 未公開 尻コキ尻コキ尻コキ,https://askzybf.com/20221125/wS9PTP5J/index.m3u8
+032820_01-10MU 天然むすめ 032820_01 本当はドMだけど少しだけボンテージコスでいじめてあげるね,https://vip1.slbfsl.com/20221027/sz3V1Nbq/index.m3u8
+032820_01-10MU 天然むすめ 032820_01 本当はドMだけど少しだけボンテージコスでいじめてあげるね,https://askzybf.com/20221125/qhM0pYRB/index.m3u8
+032820-001-CARIB 極上泡姫物語 Vol.76,https://askzybf.com/20221125/gY1Sykb1/index.m3u8
+大學生情侶上情趣酒店,https://vip2.slbfsl.com/20230409/DftpQcfN/index.m3u8
+奉献身体的介护士考试波多野结衣,https://vip1.slbfsl.com/20221031/EyTiqx9G/index.m3u8
+和妹妹搞得翻天覆地,https://vip1.slbfsl.com/20221102/eHIDrj21/index.m3u8
+結婚二十年目の四十八歳熟膣大量中出しみき,https://vip2.slbfsl.com/20230415/p4e6SVks/index.m3u8
+禁忌的欲情在丈夫眼前被侵犯,https://vip1.slbfsl.com/20221105/PBboo9Wv/index.m3u8
+禁欲10デイズヤリたい衝動MAXセックス3,https://vip1.slbfsl.com/20221105/8LCfwOeX/index.m3u8
+看護師２６歳-Part 2,https://vip2.slbfsl.com/20230417/LRY2Mvth/index.m3u8
+口交的极致艺术,https://vip1.slbfsl.com/20221106/ScaO4DXr/index.m3u8
+口交的训练课程,https://vip1.slbfsl.com/20221106/LIuP0f8H/index.m3u8
+裤子一脱准备榨干,https://vip1.slbfsl.com/20221106/cpA19kbV/index.m3u8
+老公打来了不要在插进来了,https://vip1.slbfsl.com/20221108/TN0YOpnO/index.m3u8
+美丽黑发保育员来照顾你,https://vip1.slbfsl.com/20221110/FTX5eALM/index.m3u8
+夢なら覚めないで　?最高のシチュエーションでななみゆいとエッチ?,https://vip1.slbfsl.com/20221113/rriNcwSb/index.m3u8
+秘書in… 脅迫,https://vip2.slbfsl.com/20230225/6dbSPpOv/index.m3u8
+三上悠亚唯一无码片,https://vip1.slbfsl.com/20221117/U4OZT7Zr/index.m3u8
+上原亚衣无码私处特写加勒比,https://vip1.slbfsl.com/20221117/6slDk34m/index.m3u8
+神棍占卜如果你不做爱你会不开心的,https://vip1.slbfsl.com/20221117/6s3ucljL/index.m3u8
+Suppin業餘?De S的Suppin娘?,https://vip2.slbfsl.com/20230323/EkfjYnqH/index.m3u8
+エリートOLのド下品ハメ撮り★鬼バッ,https://vip2.slbfsl.com/20230325/b3utelTa/index.m3u8
+おじさんに調教されまくる浴衣乱れる温泉デート,https://vip2.slbfsl.com/20230325/DNWGjmhO/index.m3u8
+ゲームと精子が大好きです,https://vip2.slbfsl.com/20230326/7l8gdPGC/index.m3u8
+なまなかだし,https://vip2.slbfsl.com/20230330/B6nZhU3q/index.m3u8
+まーいつもナンパしてますね,https://vip2.slbfsl.com/20230402/4yZ0AeqQ/index.m3u8
+欧美精品,#genre#
+[美国]辣妹都市(1979),https://vip2.slbfsl.com/20230330/g20JNvRr/index.m3u8
+大 脂肪 奶 贝贝 索菲亚 李 在 健身房 做爱,https://vip1.slbfsl.com/20220807/y8GZGP2u/index.m3u8
+大屁股拉丁玫瑰梦露被大家伙邓肯圣徒搞砸了,https://vip1.slbfsl.com/20220807/OxCN6Y5O/index.m3u8
+大屁股摩洛伊斯兰解放阵线 Kissa Sins 被 Markus Dupree 搞砸,https://vip1.slbfsl.com/20220807/d9DWDDK7/index.m3u8
+大屁股小明星薇薇安泰勒得到她的肥猫犁,https://vip1.slbfsl.com/20220807/DxmMcVGK/index.m3u8
+大山雀家庭主妇在她的喉咙里吮吸鸡巴并被打脸,https://vip1.slbfsl.com/20220807/Qm8IRhqW/index.m3u8
+大胸部 摩洛伊斯兰解放阵线 乔斯林 詹姆斯 引诱 电工 和 也能 他的 公鸡,https://vip1.slbfsl.com/20220807/VnkbmxU0/index.m3u8
+俄罗斯青少年阿玛莉亚戴维斯在她丰满的肥猫中使用硬迪克,https://vip1.slbfsl.com/20220807/xmhDG6FC/index.m3u8
+丰满 latina 获取 她的 晒黑 湿 猫 犁 通过 普雷斯顿 帕克,https://vip1.slbfsl.com/20220807/dZ8SPV3g/index.m3u8
+红桃皇后和她的王牌。爱丽丝最好不知道,https://vip1.slbfsl.com/20220807/PsavzWAr/index.m3u8
+家庭主妇抓到出轨丈夫并惩罚了他的情妇,https://vip1.slbfsl.com/20220807/P7l8gqiF/index.m3u8
+健身教练 Duncan Saint 和他的顽皮学生 MJ Fresh,https://vip1.slbfsl.com/20220807/ua8lx4Pn/index.m3u8
+娇小的保姆艾莉艾迪生让她的小猫被新老板捣烂,https://vip1.slbfsl.com/20220807/xYAYjzkr/index.m3u8
+娇小的强盗被泰勒钢困住并受到惩罚,https://vip1.slbfsl.com/20220807/pU1ajEzy/index.m3u8
+可爱的金发丽卡明星在瑜伽后做爱,https://vip1.slbfsl.com/20220807/fJSC0cGt/index.m3u8
+闷热的热拉丁在她的紧屁股上需要突变的英国广播公司,https://vip1.slbfsl.com/20220807/EwG5qHFh/index.m3u8
+苗条 青少年 Emma Hix 得到 她的 小猫 搞砸 通过 严格的 爷爷,https://vip1.slbfsl.com/20220807/BTollWxX/index.m3u8
+年轻的恶作剧和她的继兄弟爱笑话和肮脏的他妈的,https://vip1.slbfsl.com/20220807/OpBOLyey/index.m3u8
+年轻的亚洲宝贝 Vina Sky 带着她的继兄弟的大肥鸡巴,https://vip1.slbfsl.com/20220807/xcKd1prB/index.m3u8
+年轻的宇航员 Markus Dupree 乱搞丰满的宇宙飞船船长,https://vip1.slbfsl.com/20220807/eEHeRiYD/index.m3u8
+手拿包 - Big Booty Carnival！丰满 latina 获取 搞砸,https://vip1.slbfsl.com/20220807/gY3rVrDz/index.m3u8
+天然胸部青少年在她紧致的猫中占据曼努埃尔的大鸡巴,https://vip1.slbfsl.com/20220807/Cez79XOn/index.m3u8
+纹身大块头在肮脏的仓库里乱搞他的丰满老板,https://vip1.slbfsl.com/20220807/lPuAqn4O/index.m3u8
+我的继妹骑着我可怜的鸡巴需要最后一次锻炼,https://vip1.slbfsl.com/20220807/lchypRZz/index.m3u8
+我的继孙喜欢放学后操我的老猫,https://vip1.slbfsl.com/20220807/BbSwTG80/index.m3u8
+我的继子还不知道，但我是一个真正喜欢迪克斯的荡妇,https://vip1.slbfsl.com/20220807/kSz6BAev/index.m3u8
+我的朋友角质妈妈 Ryan Keely 引诱我并骑在我的鸡巴上,https://vip1.slbfsl.com/20220807/vlQ4XzPg/index.m3u8
+我的天啊！我不知道继母的大屁股这么紧,https://vip1.slbfsl.com/20220807/vHwf5NaC/index.m3u8
+我的天啊！我的养父母是真正的变态！还有我的继妹,https://vip1.slbfsl.com/20220807/fKjUJdHL/index.m3u8
+我儿子最好的朋友从背后操我成熟的阴户,https://vip1.slbfsl.com/20220807/biLVVQLr/index.m3u8
+我亲爱的继母在一场重要的比赛前帮助我并为我欢呼,https://vip1.slbfsl.com/20220807/EdKe0BXF/index.m3u8
+我希望我的寄养父母不知道我在网络摄像头上的工作,https://vip1.slbfsl.com/20220807/kRa4QAa8/index.m3u8
+小流氓恶作剧被抓,https://vip1.slbfsl.com/20220807/4Xbc7W19/index.m3u8
+幸运的服务员在抽烟休息期间乱搞丰满的蒂芙尼罗索,https://vip1.slbfsl.com/20220807/ovL3CKZW/index.m3u8
+严格的少尉惩罚丰满的战士亚历克西斯 Fawx 并敲打她的屁股,https://vip1.slbfsl.com/20220807/J2qucSEb/index.m3u8
+一切都好！这是我的继兄弟，我可以吮吸他的大鸡巴,https://vip1.slbfsl.com/20220807/mMVgPZvW/index.m3u8
+约翰尼城堡在瑜伽后乱搞丰满的摩洛伊斯兰解放阵线凯蒂摩根,https://vip1.slbfsl.com/20220807/uqrpPv6Z/index.m3u8
+约瑟芬杰克逊 - 我的湿猫渴望你在里面洗过的大鸡巴,https://vip1.slbfsl.com/20220807/iTLTMXiI/index.m3u8
+Alexia Anders - 我想分裂，但我的猫需要被拉伸,https://vip1.slbfsl.com/20220807/TTSGifDh/index.m3u8
+Athletic fitness trainer Victoria June gets hard fucked during workout,https://vip1.slbfsl.com/20221026/0syfhs47/index.m3u8
+bex.19.02.16.lela.star.all.that.glitters.is.lela,https://vip1.slbfsl.com/20221101/L3yJ5Dxb/index.m3u8
+Big Booty Senorita Luna Star Riding Family Man 除夕夜,https://vip1.slbfsl.com/20220807/K9X4ZE7J/index.m3u8
+Black policewoman Misty Stone takes a big cock in the interrogation cell,https://vip1.slbfsl.com/20221026/LvxQ9MSM/index.m3u8
+BrazzersExxtra - Abella Danger - Sneaking In The Back Door,https://vip1.slbfsl.com/20221101/1FZdgADq/index.m3u8
+BrazzersExxtra - Aiden Ashley - From The Streets To The Sheets,https://vip1.slbfsl.com/20221101/BMoHXPdy/index.m3u8
+Charming Russian girl Gina Gerson gets deep fucked on an underground car park,https://vip1.slbfsl.com/20221108/4sClaDXb/index.m3u8
+Inexperienced thief Carmen Caliente was caught red-handed and brutally punished,https://vip1.slbfsl.com/20221026/lNQFKppu/index.m3u8
+Kendra Lust - Married swinger couple seduced sweet girl Holly Michaels,https://vip1.slbfsl.com/20221025/tMO6PZ2h/index.m3u8
+Kiki Minaj - Star Trek a Anal porn parody with unbridled mutants Klingons,https://vip1.slbfsl.com/20221027/6xsFAsxt/index.m3u8
+Lilly Bell - 请不要告诉我们的养父母,https://vip1.slbfsl.com/20220807/U5cllI8K/index.m3u8
+Olivia Austin - Beautiful like an angel and lustful like a demon,https://vip1.slbfsl.com/20221102/b01DxLdt/index.m3u8
+Petite schoolgirl Marsha May takes huge cock during the exam,https://vip1.slbfsl.com/20221026/FnxlfA9v/index.m3u8
+Slender fitness girl Sasha Rose takes two cocks in the sauna,https://vip1.slbfsl.com/20221109/1Es6wKuK/index.m3u8
+Solo Porn With Russian MILFs. She Woke Up And Wanted Sex,https://vip1.slbfsl.com/20220808/LGsdrF69/index.m3u8
+Strict teacher Romi Rain punishes a disobedient truant Giselle Palmer in front of the whole class,https://vip1.slbfsl.com/20221109/rNnRDA5h/index.m3u8
+SWAG Chuck Assh Lee takes huge cock in her big oiled ass,https://vip1.slbfsl.com/20221105/yWZCv5A5/index.m3u8
+Tattooed hot MILF Synthia Fixx gets assfucked from behindmp4,https://vip1.slbfsl.com/20221016/D5eWJFFH/index.m3u8
+Vanessa Sky 游过加勒比海进入迈阿密和大鸡巴,https://vip1.slbfsl.com/20220807/g4Shf57N/index.m3u8
+Wild hardcore porn with slutty Amy Anderssen and her mega-boobs,https://vip1.slbfsl.com/20221105/RYrRRU5A/index.m3u8
+台湾辣妹,#genre#
+【水果派】同学会上遇旧情,https://askzybf.com/20230218/UHX8NINH/index.m3u8
+粉丝大作战,https://siwazywcdn2.com:5278/zhongwenzimu/GxU8ZfRF/index.m3u8
+黄瓜招待所自拍新片-按摩桑拿篇,https://vip2.slbfsl.com/20230201/593R2o2j/index.m3u8
+美丽善良的家政妇被迫沦为富家少爷的玩物！,https://vip1.slbfsl.com/20230109/ufnXOXcE/index.m3u8
+热恋小情侣自拍，手机丢失外泄，清纯校花被操的表情痛苦,https://vip2.slbfsl.com/20230322/zSyO8lVy/index.m3u8
+热恋小情侣自拍，手机丢失外泄，清纯校花被操的表情痛苦,https://askzybf.com/20230407/uTDG7KhG/index.m3u8
+探花系列-约个高档外围打一炮,https://vip2.slbfsl.com/20230407/JFICSrAn/index.m3u8
+顔值不錯妹子，舌吻逼摸後入抽插上位騎乘猛操,https://vip2.slbfsl.com/20230413/heNRuagt/index.m3u8
+柚子猫Yuzukitty-足交,https://vip2.slbfsl.com/20230114/JO0ltISZ/index.m3u8
+援交的妹子咋都这么有颜值又漂亮啊 我咋没遇到过这么漂亮的,https://askzybf.com/20230409/5HiD3MYF/index.m3u8
+HongKongDoll玩偶姐姐 晨钟 暮鼓,https://askzybf.com/20230421/qZ5z4AVf/index.m3u8
+XK8134無良公公設計強上親兒媳-香菱,https://vip2.slbfsl.com/20230124/iocGokF2/index.m3u8
+XKG024  讓我欲罷不能的小姨-椿芽,https://vip2.slbfsl.com/20230125/nOSJUwW1/index.m3u8
+唯美港姐,#genre#
+【水果派】孕奸肥美岳母,https://askzybf.com/20230315/078u2Iwd/index.m3u8
+超美网红模特自慰了解一下？,https://vip2.slbfsl.com/20230128/m7SxYkn9/index.m3u8
+刚认识的极品空姐约到酒店交欢,https://vip2.slbfsl.com/20230130/PRiVebRB/index.m3u8
+高端车模私会土豪自拍外泄，激烈碰撞，高潮迭起,https://vip2.slbfsl.com/20230322/ysPXROTu/index.m3u8
+高端车模私会土豪自拍外泄，激烈碰撞，高潮迭起,https://askzybf.com/20230403/E1aNdkML/index.m3u8
+高三学妹手机丢失自拍外泄小穴粉嫩阴毛超多,https://askzybf.com/20230403/9ZQWVWQQ/index.m3u8
+极品车模身材超好，逼还很紧真爽,https://vip2.slbfsl.com/20230202/0grsyEA2/index.m3u8
+街头搭讪到车上试用炮机情趣用品,https://vip2.slbfsl.com/20230203/PRJeWLSb/index.m3u8
+紧臀裙妹子骑在身上调情 ~害我忍不住的帮她扣逼 再抱起来用力操！,https://vip1.slbfsl.com/20230103/jaRPxyvI/index.m3u8
+酒吧搭讪漂亮小姐姐约到酒店调情口交啪啪!,https://vip2.slbfsl.com/20230302/a7rIqa3b/index.m3u8
+可爱少年在B中乱搞假阳具,https://vip2.slbfsl.com/20230204/eVtWAp3w/index.m3u8
+辣妹炮机插入后大屌速插,https://vip2.slbfsl.com/20230205/H0CrdQqO/index.m3u8
+旅馆偷拍身材很棒的大奶炮友,https://vip1.slbfsl.com/20230109/nTaSwVrl/index.m3u8
+没有大屌用水瓶代替，双脚轻抚似足交,https://vip2.slbfsl.com/20230207/P3HYkkHi/index.m3u8
+秘书的呻吟,https://vip2.slbfsl.com/20230208/uLOLkrIU/index.m3u8
+小情侣上完课直接回宿舍开～,https://vip2.slbfsl.com/20230411/d2rcQgGq/index.m3u8
+EDMosaic-短发妹在床上被小哥哥用器具玩弄完小穴后抽插做爱,https://askzybf.com/20230112/vkRBxKpT/index.m3u8
+JD074  美麗的繼母,https://vip2.slbfsl.com/20230119/s0ZdlzPY/index.m3u8
+JVID【孟若羽】《极乐按摩湿》屁眼不可以掰开！,https://askzybf.com/20230118/zjdkB2Tj/index.m3u8
+XKTC013下海援交日記之墮落的網紅,https://vip2.slbfsl.com/20230125/eIo8P4fC/index.m3u8
+🔞激情叁区,#genre#
+大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
+大陆10,https://vip4.ddyunbo.com/20210213/Sbi4AGZG/index.m3u8?skipl=1
+大陆11,https://vip4.ddyunbo.com/20210213/diTSDK4M/index.m3u8?skipl=1
+大陆12,https://vip4.ddyunbo.com/20210213/zOy4sbxK/index.m3u8?skipl=1
+大陆17,https://vip4.ddyunbo.com/20210211/pJ8AqyYi/index.m3u8?skipl=1
+大陆18,https://vip4.ddyunbo.com/20210210/Mbxb1Kdf/index.m3u8?skipl=1
+大陆19,https://vip4.ddyunbo.com/20210210/0iQpoB03/index.m3u8?skipl=1
+大陆22,https://vip4.ddyunbo.com/20210207/yB8Wogqf/index.m3u8?skipl=1
+大陆29,https://vip4.ddyunbo.com/20210224/SCE3aWBI/index.m3u8?skipl=1
+大陆31,https://dadi-bo.com/20181214/AiWZdPFj/index.m3u8?skipl=1
+NewTV,#genre#
+NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+轮播,#genre#
+音乐欣赏,http://mmitv.top/test/douyu.php?id=3186217
+港剧天地2,http://lxajh.top/tv/douyu.php?id=5522351
+欢乐综艺,http://mmitv.top/test/douyu.php?id=131977
+豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
+漫威影院,http://mmitv.top/test/douyu.php?id=6140589
+恐怖鬼怪,http://mmitv.top/test/douyu.php?id=1165374
+粤语电影,http://mmitv.top/test/douyu.php?id=6566671
+华语影视,http://mmitv.top/test/douyu.php?id=3928
+冰冰影厅,http://mmitv.top/test/douyu.php?id=74374
+咪咕,#genre#
+咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+咪咕直播-3,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+咪咕直播-4,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+咪咕直播-5,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+咪咕直播-6,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+咪咕直播-7,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+咪咕直播-8,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+咪咕直播-9,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+咪咕直播-10,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+咪咕直播-11,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕直播-12,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕直播-13,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+咪咕直播-14,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+咪咕直播-15,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+咪咕直播-16,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+咪咕直播-17,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+咪咕直播-18,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+咪咕直播-19,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+咪咕直播-20,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+咪咕直播-21,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+咪咕直播-22,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+咪咕直播-23,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+咪咕直播-24,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+咪咕直播-25,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+咪咕直播-26,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+咪咕直播-28,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+咪咕直播-29,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+咪咕直播-32,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播-33,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+咪咕直播-35,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+咪咕直播-36,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+咪咕直播-37,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+咪咕直播-38,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+咪咕直播-39,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+咪咕直播-40,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+咪咕直播-41,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
