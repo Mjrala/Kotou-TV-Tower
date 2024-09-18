@@ -2013,7 +2013,6 @@ EBS Kids,https://stream1.freetv.fun/03a323200dce93992e153cc747c2b174e8825be0cde0
 KIDS-TV,https://stream1.freetv.fun/6081c6dfba2c38ab99d887191be1fb8cd36a3e69b94c99cf91df63a37a964c80.m3u8
 KIDS-TV,https://stream1.freetv.fun/b5dd25cfe0125a656ea569cdc02748879671790691bb9daf685211a05728c5ce.m3u8
 KIDS-TV,https://stream1.freetv.fun/de003180a68e4d67f30a5ed43a6d0d34c3b27a1c7a23dc7584a2a24980ccb1d6.m3u8
-Movies,#genre#
 KBS DRAMA,https://stream1.freetv.fun/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
 MBC Drama,https://stream1.freetv.fun/3d960c052951f80010dd8ef441104ae2fa435d371cef25c3820f33473d4b34a8.m3u8
 MBC Drama,https://stream1.freetv.fun/6841c93fe05cd9fa1bf1cb426763e37f511c0e1b98ade9a38ca9402aa4f1f5d3.m3u8
@@ -2069,13 +2068,11 @@ SPOTV 2[geo-blocked],https://stream1.freetv.fun/81eabc04a59dd9ffed471c50577bcfe5
 SPOTV 2,https://stream1.freetv.fun/74252e150c98b9cdd13450c0668193451b53462bfb7eb8070e9a59349bede301.m3u8
 SPOTV 2,https://stream1.freetv.fun/9dbb89ce63befa140fd8fd80d01264085c00a355d526f1ea4d4bdeb242f8dacb.m3u8
 SPOTV2[geo-blocked],https://stream1.freetv.fun/991b812ad1e0d64dd14bc6ada9ac400a4c5107a19939a447b1990eb64f3883c9.m3u8
-Test,#genre#
 韓國電影,https://stream1.freetv.fun/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 韓國電影,https://stream1.freetv.fun/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 法国🇫🇷,#genre#
 French Lover TV,https://stream1.freetv.fun/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8
 French Lover TV,https://stream1.freetv.fun/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8
-Entertainment,#genre#
 FASHIONTV,https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8
 FASHIONTV[geo-blocked],https://stream1.freetv.fun/4002e71593e2747087ab3e2eda212b88cee7d2e7c5ac0f35fa2240458be01628.m3u8
 Fashion TV,https://stream1.freetv.fun/cd20cf27789ddbacb38c83494c2f9e600894cb3935add8051d2a4062be47e456.m3u8
@@ -2088,8 +2085,7 @@ Fashion TV,https://stream1.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6
 Fashion TV,https://stream1.freetv.fun/2e13667446f83ae6b5e0645107139f72273b3f60e89450a266f33942a88f92d6.m3u8
 Fashion TV,https://stream1.freetv.fun/f20956a125c9670ce154f5a62ba3bb860ab730738d62802d10304205da690f83.m3u8
 Fashion TV,https://stream1.freetv.fun/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8
-Fashion World,https://stream1.freetv.fun/5e37b6770128701e350d9afc7e4fd81fc7e1c5b36d54f4cc4a179f98a4f757bf.m3u8
-GONG TV,https://stream1.freetv.fun/8e48b2e12acee66ac607ec2d1767c822ac07456c7de75afecc56ae15d7c60af5.m3u8
+Fashion World,https://stream1.freetv.fun/8e48b2e12acee66ac607ec2d1767c822ac07456c7de75afecc56ae15d7c60af5.m3u8
 M6 Music Black,https://stream1.freetv.fun/17c57f0696b476caf60b78a23f04f5473adb292ffd890bc8913acd3d5f93ef3a.m3u8
 M6 Music Hits,https://stream1.freetv.fun/486a2bcf2848af927c1d264205905b9cd0a34d21bbf83fed591f71edb7036b86.m3u8
 Manga TV,https://stream1.freetv.fun/1660ba9fc584303351d62faf2862377600da0c3420144329d1446d144d3b2780.m3u8
@@ -2110,7 +2106,6 @@ Trace Urban,https://stream1.freetv.fun/dfa77ea576a7acdcd203ec9c9964ed378f1658738
 Trace Urban,https://stream1.freetv.fun/7c8652c4c168e9c1d5b30d7c937d162ffd69147fb55c94f61415765c9b032f74.m3u8
 Trace Urban,https://stream1.freetv.fun/f9a239ca781bbfd86a147477da76e7ca98d6b8a013fa23a8119ffe4dc3d8ca19.m3u8
 法國時裝[geo-blocked],https://stream1.freetv.fun/b2544002635cf25b1e6e1068036dc57dde70d5f8f35c70429d7e533fd10fd006.m3u8
-Generic,#genre#
 AB 1,https://stream1.freetv.fun/2ac11f3bd9320e626bcb961431b7bd962c31e6cab2f750d1d98f0d6a777075ae.m3u8
 AB 1,https://stream1.freetv.fun/e87e599f5abdec90549ea7379be8904c507bb95444907a24b8688c311221a56f.m3u8
 AB 1,https://stream1.freetv.fun/3e69add0cbb7c4fae29a614d6b999557b630eb85ce66fdce1de1cb27119a015a.m3u8
@@ -2167,10 +2162,8 @@ TÉBÉO,https://stream1.freetv.fun/d3e9033c8b4b7c80a11bbb17cb61a5c0340a8c2f30586
 TF1,https://stream1.freetv.fun/c7702af80baa1175738c7f8cabfc202852667f7a523200bff1c8356446b55076.m3u8
 TeleToon+ France[geo-blocked],https://stream1.freetv.fun/ed4c8242e17cbe61d6b29e9658105ec3856386c414b2f5cbc9577e5997da4cbf.m3u8
 TiJi,https://stream1.freetv.fun/86db8748cb25e42c0e52e268b0d08f88fb3640422386f057ab2b178be232474a.m3u8
-Knowledge,#genre#
 Discovery Science   (FR),https://stream1.freetv.fun/a72f32709ac34f67aed0ce17aa8c0d02427dfd5d009eb1c675c5129e6167e5b0.ctv
 RMC Decouverte[geo-blocked],https://stream1.freetv.fun/9ee133ae070d767d97a1dba9a059de5593a99ed4b97f506e59b69bccce0cdf8f.m3u8
-Movies,#genre#
 13 Eme Rue SD France,https://stream1.freetv.fun/fe88b66619c9223b5ef5df90619d9b6265b05f6985179788611beaefdcc77931.m3u8
 Canal+,https://stream1.freetv.fun/f6cd3f62a491e818adb58632f17467b44d55c0e377f1be4bce65036e91b57607.ctv
 CanalSat A La Carte 1,https://stream1.freetv.fun/c083d3c502580df09f619af0b1215c3392c043c6d8943514024a16cb23d8618d.m3u8
@@ -2243,7 +2236,6 @@ Al Rayyan,https://stream1.freetv.fun/52e9ec3b3b152fe7c3929a464e10dd89bf3081d0540
 Makkah ,https://stream1.freetv.fun/26bc30fc7f8e818372bd8c003f2b7fcf864e78c66bb7e12651fedf1f998949a8.m3u8
 El Sharq,https://stream1.freetv.fun/9f8a711da0204386e9e026e792fddbb27990b7c64a6800721d9578fad03bc179.m3u8
 QATAR TV,https://stream1.freetv.fun/f5ae50e8648f5fb1b72302107e8fe22e41aa3b70e927fb661d43f7ee290a665d.m3u8
-News,#genre#
 AL Jazeera,https://stream1.freetv.fun/51c7f07eb299f3d166945826dac1d7c252f8fa34f6fa4b5ca9cfe3c818e55bbb.m3u8
 AL Jazeera,https://stream1.freetv.fun/5e23484e5ff2dc9a0797e7243c63e8b08535c9ef15644feea4ce0694da04ae8b.m3u8
 AL Jazeera,https://stream1.freetv.fun/2aab4d01d613e813ea039adf31affdf4417e9135cddfc421348fee23dce26bac.m3u8
