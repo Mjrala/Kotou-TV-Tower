@@ -896,7 +896,6 @@ TVN(TW)[geo-blocked],https://stream1.freetv.fun/783b753c8ea521aa47a847b292ea48cb
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,rtmp://twcdn.top/sat/tv771
 緯來日本[geo-blocked],https://stream1.freetv.fun/7ee60c24881b027dcd26b72920443f4f1f677d6f783ea3d3d9198be8e4e72787.m3u8
-綜合,#genre#
 MOMO綜合臺,rtmp://f13h.mine.nu:1935/sat/tv761
 MOMO綜合臺,rtmp://twcdn.top/sat/tv761
 MOMO綜合臺,rtmp://f13h.mine.nu/sat/tv761
@@ -1226,7 +1225,6 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/ecfed8f20ec485a2af04f088f04b
 非凡新聞HD,rtmp://twcdn.top/sat/tv581
 非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
 ELTA 奧運7,https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df951227d39034a24.m3u8
-其它,#genre#
 Food Network(TW),https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8
 Food Network(TW)[geo-blocked],https://stream1.freetv.fun/220f6fd010142efcdd2b854300a68d43c6f3cd59c84db833e800aae9b03eeaee.m3u8
 PET CLUB TV,https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
