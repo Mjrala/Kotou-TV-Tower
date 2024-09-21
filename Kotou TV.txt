@@ -3135,7 +3135,6 @@ VH1 Classic,https://stream1.freetv.fun/e69a8d7cc34a5761138d6d5ad6f2911c3270e0726
 VH1 Classic,https://stream1.freetv.fun/4cb9ab4dfa871ea67ec9e6028afd3b5a27c8a38c509a4226f914e631ef3bf7d8.m3u8
 VH1 Classic,https://stream1.freetv.fun/056d587b04336710f2fc344f82f69ba6557e954845327cb2aca7e9cceb81bee0.m3u8
 VIRGIN RADIO,https://stream1.freetv.fun/a6931c90c9c04e33936b596d48bb95923d4dc06cf122a70eb56b6281123766a3.m3u8
-Generic,#genre#
 BBC 1,https://stream1.freetv.fun/24e8d20b6f488726be590e124f2288569baaa7b242a4e780c29085f6ecbd4107.ctv
 BBC 1,https://stream1.freetv.fun/48a00fe39a2e02db0600d3f400c80fc441ec25fb6288b47ef09fec575198ba3b.ctv
 BBC 4 (UK),https://stream1.freetv.fun/d76256e523302ca8c6789744c95aa07417588b367190198e8a98cf2075a58270.ctv
